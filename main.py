@@ -8,7 +8,7 @@
 #-------------------------------------------------------------------------------
 from __future__ import division
 from tkinter import *
-import tkinter.messageBox
+import tkinter.messagebox
 from PIL import Image, ImageTk
 import os
 import glob
