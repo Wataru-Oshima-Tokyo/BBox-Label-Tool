@@ -164,7 +164,7 @@ class LabelTool():
             self.egLabels[i].config(image = self.egList[-1], width = SIZE[0], height = SIZE[1])
 
         self.loadImage()
-        print '%d images loaded from %s' %(self.total, s)
+        print (%d images loaded from %s' %(self.total, s))
 
     def loadImage(self):
         # load image
